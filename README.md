@@ -1,3 +1,4 @@
+# Progetto di laboratorio 2, Università di Pisa
 # Utilizzo programma
 ./pagerank -d D -e E -m M -t T -k K  filename.mtx
 ## Parametri (opzionali):
